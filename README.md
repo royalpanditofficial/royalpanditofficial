@@ -1,3 +1,4 @@
+![logo](https://github.com/royalpanditofficial/royalpanditofficial/blob/main/Satyam%20Banner.png)
 <h1 align="center">👨‍💻 𝑯𝒆𝒚, 𝑰'𝒎 𝐄𝐫. 𝐒𝐚𝐭𝐲𝐚𝐦 𝐓𝐢𝐰𝐚𝐫𝐢</h1>
 <h3 align="center">𝑨 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 𝑬𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕🐱‍💻</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
