@@ -1,4 +1,4 @@
-
+<img src="https://github.com/royalpanditofficial/royalpanditofficial/blob/c3d596e8fc11c06ecde1d39cd809846ec77a7ac8/Github-Banner.png" align="center" />
 <h1 align="center">Namaste, I'm <strong>Satyam Tiwari👨🏻‍🎓</strong></h1>
 <h3 align="center"><em>Junior AWS Cloud Developer</em> 👨🏻‍💻</h3>
 
