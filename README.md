@@ -47,13 +47,13 @@
 </div>
 
 ### 🌐 Social Media
-<ul class="ftco-footer-social list-unstyled d-flex justify-content-center align-items-center mb-0">
-  <li class="ftco-animate normal-txt">Find me on</li>
-  <li class="ftco-animate"><a href="https://www.youtube.com/@royalpanditofficial"><span class="icon-youtube"></span> 🎥 YouTube</a></li>
-  <li class="ftco-animate"><a href="https://www.linkedin.com/in/royalpanditofficial/"><span class="icon-linkedin"></span> 🔗 LinkedIn</a></li>
-  <li class="ftco-animate"><a href="https://t.me/SatyamSocialite"><span class="icon-paper-plane"></span> 🚀 Telegram</a></li>
-  <li class="ftco-animate"><a href="https://github.com/royalpanditofficial"><span class="icon-github"></span> 💻 GitHub</a></li>
-</ul>
+<p align="left">
+<a href="https://dev.to/royalpanditofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="royalpanditofficial" height="30" width="40" /></a>
+<a href="https://twitter.com/satyamvibes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="satyamvibes" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/royalpanditofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="royalpanditofficial" height="30" width="40" /></a>
+<a href="https://instagram.com/satyamvibes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satyamvibes" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@royalpanditofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="royalpanditofficial" height="30" width="40" /></a>
+</p>
 
 ### 📊 Skills
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
@@ -68,6 +68,5 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=royalpanditofficial&" alt="GitHub Streak Stats" />
 </p>
-
 Thanks for visiting my portfolio! 🚀
 
